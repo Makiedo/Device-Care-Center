@@ -1,4 +1,4 @@
-How to run Device Care Centre:
+How to run Device Care Center:
  
 1. Download this repository (the Modules folder, DeviceCareCenter.exe, and
    DeviceCareCenter.ico).
