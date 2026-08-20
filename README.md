@@ -43,7 +43,11 @@ Features:
 
 6. Built for trust, not just function
     a. Live progress, not a guess. Long-running tools stream real output with a live percentage and a genuine time-remaining estimate calculated from actual progress, so nothing ever looks frozen.
+   
     b. Stop actually stops. Every task can be safely interrupted mid-run. A clear "safely stopping" indicator with a live counter shows the app is still responding, not hung.
+   
     c. Technical / Friendly modes. Plain-language activity log by default, with a full technical terminal view one toggle away for anyone who wants the raw command output.
+   
     d. Closing mid-task offers a real choice, not a forced kill: minimize to the system tray and keep going, safely stop then close, or force close with a clear warning about what that risks.
+   
     e. Nothing destructive happens without asking. Any step that changes settings or removes data - resetting network config, forgetting Wi-Fi profiles, a full network reset - requires explicit confirmation first.
